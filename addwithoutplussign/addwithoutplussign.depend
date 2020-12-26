@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1609018244 source:c:\users\ghimi\documents\c++\c\nesoprojects\addwithoutplussign\main.c
+	<stdio.h>
+	<stdlib.h>
+
