@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1608937411 source:c:\users\ghimi\documents\c++\c\nesoprojects\armstrongnumber\main.c
+	<stdio.h>
+	<stdlib.h>
+

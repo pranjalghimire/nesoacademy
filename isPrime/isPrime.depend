@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1608947442 source:c:\users\ghimi\documents\c++\c\nesoprojects\isprime\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

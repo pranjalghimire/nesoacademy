@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1608934251 source:c:\users\ghimi\documents\c++\c\nesoprojects\numberpalindrome\main.c
+	<stdio.h>
+	<stdlib.h>
+
