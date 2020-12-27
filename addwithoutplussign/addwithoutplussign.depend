@@ -1,5 +1,9 @@
 # depslib dependency file v1.0
-1609018244 source:c:\users\ghimi\documents\c++\c\nesoprojects\addwithoutplussign\main.c
+1609063924 source:c:\users\ghimi\documents\c++\c\nesoprojects\addwithoutplussign\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1609063722 source:c:\users\ghimi\documents\c++\c\nesoprojects\addwithoutplussign\halfadder.c
 	<stdio.h>
 	<stdlib.h>
 
