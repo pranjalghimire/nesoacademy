@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1609118924 source:c:\users\ghimi\documents\c++\c\nesoprojects\fibonacci iterative\main.c
+	<stdio.h>
+	<stdlib.h>
+
