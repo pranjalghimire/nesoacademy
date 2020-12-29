@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1609122228 source:c:\users\ghimi\documents\c++\c\nesoprojects\floyds triangle\main.c
+	<stdio.h>
+	<stdlib.h>
+
