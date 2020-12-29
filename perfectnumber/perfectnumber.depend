@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1609234872 source:c:\users\ghimi\documents\c++\c\nesoprojects\perfectnumber\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
