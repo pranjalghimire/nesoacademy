@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1609208940 source:c:\users\ghimi\documents\c++\c\nesoprojects\power\main.c
+	<stdio.h>
+	<stdlib.h>
+
